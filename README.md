@@ -49,7 +49,7 @@ Sistema automatizado de control de microclimas para cultivo controlado de hongos
 - **Software:** App móvil en Ionic / Angular, dashboard web en React y sincronización en tiempo real con Firebase RTDB.
 - **Impacto medido:** **+67% de aumento en rendimiento de cosecha**, **-20% de reducción en ciclo** y **20% de ahorro energético**.
 
-### 💧 Sistema de Gestión & Control de Asistencia QR
+### 💧 [Sistema de Gestión & Control de Asistencia QR](https://github.com/dalitoled/asistencia_qr_flutter)
 > **Solución Móvil & Cloud para Comunidades de Agua Potable**  
 Aplicación móvil corporativa para el control de más de 500 socios, asambleas y recaudación financiera.
 - **Stack:** Flutter (Dart), arquitectura Riverpod, Firebase Firestore y Cloud Functions.
