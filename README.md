@@ -2,11 +2,11 @@
 
 # 👋 Hola, soy Daniel Ledezma Castro
 ### Ingeniero de Sistemas | Full Stack, Mobile & IoT Developer
-📍 *Antofagasta, Chile* &nbsp;|&nbsp; ✉️ [ledezmacastrodaniel@gmail.com](mailto:ledezmacastrodaniel@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-ledezma-castro-261337261/) &nbsp;|&nbsp; 🌐 [Portafolio Web](https://portafolio-dael2.vercel.app)
+📍 *Antofagasta, Chile* &nbsp;|&nbsp; ✉️ [ledezmacastrodaniel@gmail.com](mailto:ledezmacastrodaniel@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-ledezma-castro) &nbsp;|&nbsp; 🌐 [Portafolio Web](https://portafolio-dael2.vercel.app)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Ledezma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ledezma-castro-261337261/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Ledezma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ledezma-castro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_en_Línea-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-dael2.vercel.app)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59172729907)
 
@@ -68,7 +68,7 @@ Sitio web interactivo desarrollado con React 19, Tailwind CSS v4, Framer Motion 
 
 ## 📬 Contacto & Redes
 
-- 💼 **LinkedIn:** [linkedin.com/in/daniel-ledezma-castro-261337261](https://www.linkedin.com/in/daniel-ledezma-castro-261337261/)
+- 💼 **LinkedIn:** [linkedin.com/in/daniel-ledezma-castro-261337261](https://www.linkedin.com/in/daniel-ledezma-castro)
 - 📧 **Email:** [ledezmacastrodaniel@gmail.com](mailto:ledezmacastrodaniel@gmail.com)
 - 📱 **WhatsApp:** [+591 72729907](https://wa.me/59172729907)
 - 📍 **Ubicación:** Antofagasta, Chile (Disponibilidad inmediata para modalidad presencial, híbrida o remota)
